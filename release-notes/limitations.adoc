@@ -1,0 +1,15 @@
+---
+sidebar: sidebar 
+permalink: release-notes/limitations.html 
+keywords: reports, bluexp 
+summary: ここでは、このリリースのサービスでサポートされていない、またはサービスと正常に相互運用できないプラットフォーム、デバイス、または機能について説明します。 
+---
+= 制限
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+ここでは、このリリースのサービスでサポートされていない、またはサービスと正常に相互運用できないプラットフォーム、デバイス、または機能について説明します。

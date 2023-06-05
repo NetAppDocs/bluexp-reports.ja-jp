@@ -1,0 +1,15 @@
+---
+layout: landing-page 
+sidebar: sidebar 
+permalink: index.html 
+summary: ファイルシステムデータの移動、移行、クローニングを準備するときは、まず何があるかを確認する必要があります。BlueXP移行レポートサービスを使用すると、ストレージ環境のファイル、ディレクトリ、シンボリックリンク、ハードリンク、ファイルシステムツリーの深さと幅、大容量ファイルなどの数をすばやく特定できます。  
+---
+= BlueXPの移行レポート
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

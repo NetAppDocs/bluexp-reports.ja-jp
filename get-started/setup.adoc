@@ -1,0 +1,15 @@
+---
+sidebar: sidebar 
+permalink: get-started/setup.html 
+keywords: bluexp, reports, storage, inventory, volumes 
+summary: BlueXP移行レポートを使用するには、いくつかの手順を実行してレポートを設定します。 
+---
+= BlueXP移行レポートをセットアップ
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+BlueXP移行レポートサービスを設定する必要はありません。BlueXP移行レポートオプションは自動的に有効になり、BlueXPの左側のナビゲーションに表示されます。

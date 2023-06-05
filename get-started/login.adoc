@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: get-started/login.html 
+keywords: bluexp login, reports service log in 
+summary: BlueXPのサービスにアクセスして、BlueXP移行レポートを使い始めましょう。 
+---
+= BlueXP移行レポートにアクセス
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+BlueXPには、WebブラウザからBlueXPのSaaSベースのユーザインターフェイスからアクセスできます。
+
+BlueXPにログインするには、NetApp Support Site のクレデンシャルを使用するか、Eメールとパスワードを使用してネットアップクラウドへのログインにサインアップします。 https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["ログインの詳細については、こちらをご覧ください"^]。
+
+.手順
+. Webブラウザを開き、にアクセスします https://console.bluexp.netapp.com/["BlueXPコンソール"^]。
++
+NetApp BlueXPのログインページが表示されます。
+
+. BlueXPにログインします。
+. 次のいずれかを実行します。
++
+** BlueXPの左側のナビゲーションで、*[ストレージ]*>*[移行レポート]*を選択します。
+** BlueXPキャンバスで、作業環境を選択します。右側のパネルで、*[レポート]*>*[クラスタレポートの表示]*を選択します。
++
+レポートを生成していない場合は、ランディングページが表示されます。レポートを生成した場合は、レポートのリストが表示されます。BlueXPキャンバスの右側のパネルで特定のクラスタを選択した場合、そのクラスタのみがレポートにフィルタされます。
+
+
+
++
+image:reports-landing.png["この画像は、サービスランディングページを示しています"]
+
+

@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: use/report-overview.html 
+keywords: BlueXP migration reports, volume reports 
+summary: BlueXP移行レポートサービスを使用すると、ストレージ環境のファイル、ディレクトリ、シンボリックリンク、ハードリンク、ファイルシステムツリーの深さと幅、大容量ファイルなどの数をすばやく特定できます。 
+---
+= レポートの概要
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+BlueXP移行レポートサービスを使用すると、ストレージ環境のファイル、ディレクトリ、シンボリックリンク、ハードリンク、ファイルシステムツリーの深さと幅、大容量ファイルなどの数をすばやく特定できます。
+
+BlueXP移行レポートサービスには、ボリュームごとにデータが表示されます。
+
+BlueXP移行レポートを使用すると、次のような目標を達成できます。
+
+* link:../use/report-create.html["レポートを作成します"]
+* link:../use/report-notifications.html["通知を有効にします"]
+* link:../use/report-delete.html["レポートを削除します"]
+

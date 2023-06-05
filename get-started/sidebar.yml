@@ -1,0 +1,16 @@
+---
+section: get-started
+title: はじめに
+entries:
+- title: BlueXPの移行レポートをご紹介します
+  url: "/get-started/intro.html"
+- title: 前提条件
+  url: "/get-started/prerequisites.html"
+- title: クイックスタート
+  url: "/get-started/quick-start.html"
+- title: BlueXP移行レポートをセットアップ
+  url: "/get-started/setup.html"
+- title: BlueXP移行レポートにアクセス
+  url: "/get-started/login.html"
+- title: よく寄せられる質問
+  url: "/get-started/faq.html"

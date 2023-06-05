@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: release-notes/whats-new.html 
+keywords: 'reports what"s new, bluexp' 
+summary: 新しいBlueXP移行レポートサービスでは、ストレージ環境のファイル、ディレクトリ、シンボリックリンク、ハードリンク、ファイルシステムツリーの深さと幅、大容量ファイルなどの数をすばやく特定できます。 
+---
+= 新機能
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+BlueXP移行レポートの最新情報をご確認ください。
+
+
+
+== 2023年6月2日
+
+新しいBlueXP移行レポートサービスでは、ストレージ環境のファイル、ディレクトリ、シンボリックリンク、ハードリンク、ファイルシステムツリーの深さと幅、大容量ファイルなどの数をすばやく特定できます。
+
+この情報を使用すると、使用したいプロセスが在庫を効率的かつ正常に処理できることが事前にわかります。
+
+link:https://docs.netapp.com/us-en/bluexp-reports/get-started/intro.html["BlueXP移行レポートの詳細をご確認ください"]。

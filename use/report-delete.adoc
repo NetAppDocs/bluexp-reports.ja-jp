@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: use/report-delete.html 
+keywords: BlueXP migration reports, volume reports 
+summary: 修正したエラーが含まれている場合や、レポートが不要になった場合は、レポートを削除できます。 
+---
+= レポートを削除します
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+修正したエラーが含まれている場合や、レポートが不要になった場合は、レポートを削除できます。レポートのインスタンスを1つ以上削除できます。
+
+.手順
+. BlueXPの左側のナビゲーションで、*[ストレージ]*>*[移行レポート]*を選択します。
+. [Reports Dashboard]で、レポートを選択します。
+. レポート行で、[アクション]*を選択します。 メニューをクリックし、*[Delete Report]*を選択します。
+. レポートに複数のインスタンスが存在する場合は、削除するインスタンスを選択し、*[削除]*を選択します。
++
+image:report-delete-multiple.png["この画像は、複数のレポートを削除できる[Delete]ページを示しています"]
+
+. [削除]*を選択して削除を確定します。
+

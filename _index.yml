@@ -1,0 +1,34 @@
+---
+indexpage:
+  lead: ファイルシステムデータの移動、移行、クローニングを準備するときは、まず何があるかを確認する必要があります。BlueXP移行レポートサービスを使用すると、ストレージ環境のファイル、ディレクトリ、シンボリックリンク、ハードリンク、ファイルシステムツリーの深さと幅、大容量ファイルなどの数をすばやく特定できます。
+  tiles:
+  - title: はじめに
+    links:
+    - title: BlueXPの移行レポートをご紹介します
+      url: "/get-started/intro.html"
+    - title: BlueXP移行レポートの新機能
+      url: "/release-notes/whats-new.html"
+    - title: クイックスタート
+      url: "/get-started/quick-start.html"
+    - title: 前提条件
+      url: "/get-started/prerequisites.html"
+    - title: BlueXP移行レポートにログイン
+      url: "/get-started/login.html"
+    - title: よく寄せられる質問
+      url: "/get-started/faq.html"
+  - title: BlueXPの移行レポートを活用
+    links:
+    - title: レポートの概要
+      url: "/use/report-overview.html"
+    - title: レポートを作成します
+      url: "/use/report-create.html"
+    - title: レポートサンプルを表示します
+      url: "/use/report-sample.html"
+    - title: レポートを削除します
+      url: "/use/report-delete.html"
+  - title: ブログとコミュニティ
+    links:
+    - title: ネットアップコミュニティ
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: クラウドに関する Web セミナー
+      url: https://bluexp.netapp.com/events

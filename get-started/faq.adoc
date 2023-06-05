@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: get-started/faq.html 
+keywords: reports faq, frequently asked questions 
+summary: この FAQ は、質問に対する簡単な回答を探している場合に役立ちます。 
+---
+= BlueXP移行レポートに関するよくある質問
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+この FAQ は、質問に対する簡単な回答を探している場合に役立ちます。
+
+
+
+== BlueXP移行レポートサービスを利用できます
+
+* BlueXP移行レポートのサービスURLは何ですか？*
+
+URLの場合は、ブラウザで次のように入力します。 https://console.bluexp.netapp.com/["https://console.bluexp.netapp.com/"^] をクリックしてBlueXPコンソールにアクセスします。
+
+* BlueXP移行レポートはどのように設定しますか？*
+
+BlueXP移行レポートサービスでは、セットアップは必要ありません。BlueXP移行レポートオプションは、BlueXPの左側のナビゲーションで自動的に有効になります。
+
+*データブローカーは必要ですか？*
+
+BlueXPのコピーと同期（Cloud Sync）では、データブローカーが必要になる場合があります。ただし、BlueXP移行レポートサービスにはデータブローカーは必要ありません。
+
+
+
+== ライセンス
+
+* BlueXP移行レポートを使用するにはライセンスが必要ですか？*
+
+ネットアップライセンスファイル（NLF）は必要ありません。

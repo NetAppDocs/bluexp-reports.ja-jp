@@ -1,0 +1,14 @@
+---
+section: use
+title: BlueXPの移行レポートを活用
+entries:
+- title: BlueXP移行レポートでできること
+  url: "/use/report-overview.html"
+- title: レポートを作成します
+  url: "/use/report-create.html"
+- title: Volumesレポートのサンプルを確認します
+  url: "/use/report-sample.html"
+- title: レポート通知を有効にします
+  url: "/use/report-notifications.html"
+- title: レポートを削除します
+  url: "/use/report-delete.html"

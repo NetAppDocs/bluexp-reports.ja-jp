@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: use/report-notifications.html 
+keywords: BlueXP migration reports, volume reports 
+summary: BlueXP移行レポートサービスでは、新しいレポートが生成されたときに通知を受け取るように設定できます。 
+---
+= レポート通知を有効にします
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+BlueXP移行レポートサービスでは、BlueXPページの右上にあるBlueXP通知に通知が表示されます。
+
+また、新しいレポートが生成されたときにEメールでユーザに通知するように設定することもできます。これを行うには、「情報」通知設定を選択する必要があります。
+
+.手順
+. BlueXPの左側のナビゲーションで、*[ストレージ]*>*[キャンバス]*を選択します。
+. 通知を表示するには、右上の通知*ベル*アイコンを選択します。
+. Eメール通知を有効にするには、次の手順を実行します。
++
+.. [設定]*を選択します。 オプションを選択し、*[アラートと通知の設定]*を選択します。
+.. [Additional Recipients]*タブを選択します。
+.. [Notifications]列で、矢印を選択して行を展開します。
+.. 通知レベルとして、*[情報]*を選択します。
++
+image:notifications-email-info-option.png["この画像は、INFOの通知オプション設定を示しています"]
+
+
+
+
