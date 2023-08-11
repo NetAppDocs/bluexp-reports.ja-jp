@@ -18,6 +18,6 @@ BlueXP移行レポートサービスには次の前提条件があります。
 
 * Cloud Volumes ONTAP Azure NetApp Files、Amazon FSx for NetApp ONTAP、またはオンプレミスの作業環境内のデータLIFへのアクセス
 * ONTAP 9.7以降を使用している
-* NetApp BlueXPで設定したBlueXPコネクタを管理LIFに接続します。BlueXPのドキュメントを参照してください https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["BlueXP Connectorを設定します"]。
+* NetApp BlueXPで設定したBlueXPコネクタをクラスタ管理LIFに接続します。クラスタ管理LIFは、クラスタ管理処理を実行できる仮想ネットワークインターフェイスです。BlueXPのドキュメントを参照してください https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["BlueXP Connectorを設定します"]。
 * 標準 https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["BlueXPの要件"]
 

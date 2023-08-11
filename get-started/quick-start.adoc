@@ -16,14 +16,14 @@ summary: わずかな手順でNetApp BlueXP移行レポートサービスを利�
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["1つ"] 前提条件を確認する
 [role="quick-margin-para"]
-link:../get-started/prerequisites.html["環境がこれらの要件を満たしていることを確認します"^]。
+link:../get-started/prerequisites.html["環境がこれらの要件を満たしていることを確認します"]。
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["3つ"] 次の手順
 [role="quick-margin-para"]
 次にやるべきことは次のとおりです。
 
 [role="quick-margin-list"]
-* link:../use/report-create.html["レポートを作成します"^]。
-* link:../use/report-sample.html["レポートサンプルを表示します"^]。
-* link:../use/report-delete.html["レポートを削除します"^]。
+* link:../use/report-create.html["レポートを作成します"]。
+* link:../use/report-sample.html["レポートサンプルを表示します"]。
+* link:../use/report-delete.html["レポートを削除します"]。
 
