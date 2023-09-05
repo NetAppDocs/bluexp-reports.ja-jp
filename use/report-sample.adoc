@@ -16,9 +16,8 @@ Volumesレポートのサンプルを参照して、データの内容を確認�
 
 .手順
 . BlueXPの左側のナビゲーションで、*[ストレージ]*>*[移行レポート]*を選択します。
-. レポートを表示するには、[アクション]*... オプションを選択し、*[レポートの表示]*を選択します。
 +
-image:sample-volumes-top.png["この図は、Volumesレポートのサンプルの上部を示しています"]
+image:report-sample-volumes-top-total-items.png["この画像は、サンプルの[Volumes]レポートの上部と[Total items]タブを示しています。"]
 
 +
 image:sample-volumes-middle.png["この図は、Volumesレポートのサンプルの中央を示しています"]
@@ -27,7 +26,17 @@ image:sample-volumes-middle.png["この図は、Volumesレポートのサンプ�
 image:sample-volumes-middle-b.png["この図は、Volumesレポートのサンプルの中央にある次のセクションを示しています"]
 
 . 列の意味を確認するには、いくつかの情報にカーソルを合わせます。
-. レポートをCSV形式で表示するには、[アクション（Actions）]*... 右側のオプションをクリックし、* PDFを表示*を選択します。
+. 次のいずれかのオプションを選択します。
++
+** レポートのPDFファイルを表示およびダウンロードするには、[アクション]*... オプションを選択し、*[Download Report]*を選択します。
+** 同じレポートの別のインスタンスを生成するには、レポート行を選択し、右側の*レポートの追加*を選択します。
+** すべての項目に関する情報を表示するには、*合計項目*タブを選択します。
+** 割り当て容量の情報のみを表示するには、*[割り当て容量]*タブを選択します。
++
+image:report-sample-volumes-top-capacity.png["この図は、サンプルの[Volumes]レポートの上部と[Allocated capacity]タブを示しています。"]
+
+
+
 . レポート情報を表示します。
 +
 ** *最大*>*合計深さ*：ボリューム内のディレクトリ内にネストされているサブディレクトリの最大数。この例では、ディレクトリ/subdirectory/subdirectory2で、深さは2です。
@@ -52,6 +61,8 @@ image:sample-volumes-middle-b.png["この図は、Volumesレポートのサン�
 レポートの日付間でデータがどのように変更されたかが必要になる場合があります。これを行うには、[Reports Distribution]グラフを使用します。
 
 [Reports Distribution]情報は、完了したレポートでのみ使用でき、完了したレポートが2つ以上ある場合にのみ使用できます。
+
+image:report-sample-volumes-distribution.png["この図は、Volumes Distributionレポートのサンプルの上部を示しています。"]
 
 .手順
 . BlueXPの左側のナビゲーションで、*[ストレージ]*>*[移行レポート]*を選択します。
