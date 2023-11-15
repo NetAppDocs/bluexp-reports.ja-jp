@@ -96,7 +96,6 @@
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">制限</block>
   <block id="fa62285d299fafbecd9c02da5fa530c6" category="summary">新しいBlueXP移行レポートサービスでは、ストレージ環境のファイル、ディレクトリ、シンボリックリンク、ハードリンク、ファイルシステムツリーの深さと幅、大容量ファイルなどの数をすばやく特定できます。</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">新機能</block>
-  <block id="0a315dc6821559d103066780c255612b" category="paragraph">BlueXP移行レポートの最新情報をご確認ください。</block>
   <block id="2962158ebf7a34c626b48db40bc051ec" category="section-title">2023年6月2日</block>
   <block id="d792454ca1593678a5c636322be98be7" category="paragraph">この情報を使用すると、使用したいプロセスが在庫を効率的かつ正常に処理できることが事前にわかります。</block>
   <block id="167aa714a6db028bb8fc39b77f1185ef" category="inline-link-macro">BlueXP移行レポートの詳細をご確認ください</block>
@@ -371,4 +370,7 @@
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">クラウドプロバイダのファイルサービスのサポート</block>
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">クラウドプロバイダのファイルサービスとそのインフラ、またはサービスを使用する解決策に関連するテクニカルサポートについては、該当する製品のBlueXPドキュメントの「困ったときは」を参照してください。</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">BlueXPおよびそのストレージソリューションとサービスに固有のテクニカルサポートを受けるには、以下に記載されているサポートオプションを使用してください。</block>
+  <block id="3f3fab9b522f231cf00b909c6155b3d4" category="summary">BlueXP移行レポートの新機能をご紹介します。</block>
+  <block id="35214f9b3df21ed35db22cb765a9b147" category="section-title">2023年11月13日</block>
+  <block id="c14af667110ffb482c0adaaed623dbe2" category="paragraph">SMB / CIFSプロトコルを使用するボリュームのレポートを作成できるようになりました。</block>
 </blocks>

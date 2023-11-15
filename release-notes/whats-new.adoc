@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: 'reports what"s new, bluexp' 
-summary: 新しいBlueXP移行レポートサービスでは、ストレージ環境のファイル、ディレクトリ、シンボリックリンク、ハードリンク、ファイルシステムツリーの深さと幅、大容量ファイルなどの数をすばやく特定できます。 
+summary: BlueXP移行レポートの新機能をご紹介します。 
 ---
 = 新機能
 :hardbreaks:
@@ -12,7 +12,13 @@ summary: 新しいBlueXP移行レポートサービスでは、ストレージ�
 
 
 [role="lead"]
-BlueXP移行レポートの最新情報をご確認ください。
+BlueXP移行レポートの新機能をご紹介します。
+
+
+
+== 2023年11月13日
+
+SMB / CIFSプロトコルを使用するボリュームのレポートを作成できるようになりました。
 
 
 
